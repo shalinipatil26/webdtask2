@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(220, 179, 215);
+}
+
+.content{
+    max-width: 900px;
+    margin:0 auto;
+    text-align: center;
+}
+.top_section,h1{
+    font-size:35px;
+    font-weight: bold;
+}
+
+.image_container,img{
+    height:307px;
+
+}
+
+.about_section{
+    margin-top: 50px;
+
+}
+
+.about_section,h2{
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+
+.about_section,p{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+}
+
+.work_section,h2{
+    font-size: 25px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.work_section,p{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 1.2px;
+    text-align: justify;
+}
+
+footer{
+    margin:50px 0;   
+}
+
+footer{
+    text-align: end;
+}
